@@ -9,6 +9,7 @@ Este es un template para proyectos de Next.js con integración de OpenAI y ollma
 - **Desarrollo Eficiente**: Scripts personalizados para desarrollo, construcción, y despliegue.
 - **Estilos Modernos**: Configuración de TailwindCSS para un diseño rápido y responsivo.
 - **Herramientas de Calidad de Código**: Precommit y Prepush hooks para mantener la calidad del código antes de cada commit y push.
+- **Integración con OpenAI**: Ejemplos de uso de OpenAI para integrar inteligencia artificial en tu aplicación.
 
 ## 🛠️ Tecnologías y herramientas
 
